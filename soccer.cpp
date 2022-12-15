@@ -1,7 +1,4 @@
-//Kyi Lei Aye
-//CS002_77215:Midterm2_Prompt_4
 //Soccer Game Simulator
-//Instructor:Hilario_Balajadia
 //Last_Edited_Date:11/3/2022
 
 #include <iostream>
